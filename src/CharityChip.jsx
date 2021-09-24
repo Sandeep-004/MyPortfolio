@@ -24,16 +24,6 @@ const CharityChip = () => {
             <Chip
                label='jQuery'
                clickable
-            /><br/><br/>
-
-            <Chip
-               label='Node.js'
-               clickable
-            />
-
-            <Chip
-               label='Express.js'
-                clickable
             />
             
             </div>
