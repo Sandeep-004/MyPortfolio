@@ -10,7 +10,7 @@ import pro2 from '../src/Images/tricks.PNG';
 import LanguageIcon from '@material-ui/icons/Language';
 import todo from '../src/Images/todo.PNG';
 import series from '../src/Images/series.PNG'; 
-import google from '../src/Images/google.PNG';
+import keep from '../src/Images/keep.PNG';
 import CharityChip from './CharityChip';
 import WebTricksChip from './WebTricksChip';
 import ToDoChip from './ToDoChip';
@@ -173,7 +173,7 @@ const Project = () => {
 
             <div className="card" data-aos="flip-down"
              data-aos-offset="300" data-aos-duration="1000" >
-                 <img className="card-img-top" src={google} alt="Card_cap" />
+                 <img className="card-img-top" src={keep} alt="Card_cap" />
                     <div className="card-body">
                         <h5 className="card-title">Easy Keep</h5>
                        <p className="card-text">
